@@ -1,5 +1,17 @@
 # PREDICTIVE ANALYSIS USING MACHINE LEARNING
 
+*COMPANY* : CODTECH IT SOLUTION
+
+*NAME*: VAISHNAVI SUDHIR SANSARE
+
+*INTERN ID*: CITS0D56
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION* : 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 This project demonstrates how to use a Support Vector Machine (SVM) classifier to predict accident survival outcomes based on various factors. The dataset `Accident_survival.csv` contains several parameters that could influence survival, and the `survived` column (1 - survived, 0 - not survived) is used as the target.
 
 ## Dataset
