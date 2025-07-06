@@ -1,4 +1,4 @@
-# Accident Survival Prediction using SVM
+# PREDICTIVE ANALYSIS USING MACHINE LEARNING
 
 This project demonstrates how to use a Support Vector Machine (SVM) classifier to predict accident survival outcomes based on various factors. The dataset `Accident_survival.csv` contains several parameters that could influence survival, and the `survived` column (1 - survived, 0 - not survived) is used as the target.
 
