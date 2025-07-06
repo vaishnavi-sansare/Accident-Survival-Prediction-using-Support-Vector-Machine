@@ -35,3 +35,5 @@ This project demonstrates how to use a Support Vector Machine (SVM) classifier t
 ### Results
 The performance of different SVM kernels was compared to find the best fit for the accident survival prediction problem. The results highlight how kernel choice can significantly affect classification accuracy.
 
+<img width="1917" height="867" alt="Image" src="https://github.com/user-attachments/assets/5496dec2-58d2-4d30-a712-fe3f085aa3de" />
+
